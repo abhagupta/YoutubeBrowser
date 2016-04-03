@@ -13,6 +13,6 @@ An interactive search application for browsing youtube videos for a search term.
 ```
 
 ### Concepts used
--redux
--reducers
--actions
+- redux
+- reducers
+- actions
